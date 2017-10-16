@@ -1216,7 +1216,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7869.png",
+              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x78611.png",
               "link": "",
               "alt": "",
               "title": ""
