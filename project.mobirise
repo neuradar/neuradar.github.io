@@ -886,7 +886,7 @@
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Presentation. Combined detector (eng).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Advantages,%20the%20use%20of%20detectors%20series%20%C2%ABRT-3.x%C2%BB,%20%C2%ABRT-40.x%C2%BB,%20%C2%ABNaI%20(tl)%2040x40%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">ADVANTAGES / APPLICATIONS «RT-3.x», «RT-40.x», «NaI (tl) 40x40 (1)»</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Comparative%20characteristics%20of%20the%20detector%20%C2%ABR%D0%A2-3.x%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">COMPARATIVE CHARACTERISTICS OF THE DETECTOR &nbsp;«RТ-3.х»  </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Commercial%20offer%20(eng).pdf\" data-toolbar=\"-mbrBtnMove\">COMMERCIAL PROPOSAL</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Technical%20description%20of%20the%20detector%20%C2%ABR%D0%A2-3.x%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">TECHNICAL&nbsp;DESCRIPTION &nbsp;«RT3.x» </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0BwilsoFkO_E8ZnZya09fcGJzV0U\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD ALL</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Presentation.%20Combined%20detector%20(eng).pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Advantages,%20the%20use%20of%20detectors%20series%20%C2%ABRT-3.x%C2%BB,%20%C2%ABRT-40.x%C2%BB,%20%C2%ABNaI%20(tl)%2040x40%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">ADVANTAGES / APPLICATIONS «RT-3.x», «RT-40.x», «NaI (tl) 40x40 (1)»</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Comparative%20characteristics%20of%20the%20detector%20%C2%ABR%D0%A2-3.x%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">COMPARATIVE CHARACTERISTICS OF THE DETECTOR &nbsp;«RТ-3.х»  </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Commercial%20offer%20(eng).pdf\" data-toolbar=\"-mbrBtnMove\">COMMERCIAL PROPOSAL</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"assets/files/Technical%20description%20of%20the%20detector%20%C2%ABR%D0%A2-3.x%C2%BB.pdf\" data-toolbar=\"-mbrBtnMove\">TECHNICAL&nbsp;DESCRIPTION &nbsp;«RT3.x» </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0BwilsoFkO_E8ZnZya09fcGJzV0U\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD ALL</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -1216,7 +1216,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7867.png",
+              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7869.png",
               "link": "",
               "alt": "",
               "title": ""
