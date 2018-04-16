@@ -34,7 +34,7 @@
   background: none !important; }
 
 .btn {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto, sans-serif;
   font-weight: 500;
   letter-spacing: 2px;
   padding: 0.75rem 2.1875rem;
@@ -58,13 +58,13 @@
 .btn-lg {
   padding: 0.75rem 2.1874rem;
   font-size: 0.9687rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-xlg {
   padding: 0.75rem 2.1874rem;
   font-size: 1.1875rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-primary {
@@ -551,7 +551,7 @@ p.lead,
 .alert {
   border-radius: 0;
   border: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto, sans-serif;
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.875rem;
@@ -589,18 +589,18 @@ p.lead,
  * TYPOGRAPHY
  */
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #232323; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .display-1, .display-2, .display-3, .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto, sans-serif;
   word-break: break-word;
   word-wrap: break-word; }
 
 input, textarea {
-  font-family: "Raleway"; }
+  font-family: "Roboto"; }
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   transition-delay: 9999s;
@@ -971,7 +971,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transition: .2s background ease-in-out; }
 
 .mbr-gallery .mbr-gallery-item > a:hover .mbr-gallery-title {
-  background: transparent !important; }
+  background: rgba(0, 0, 0, 0) !important; }
 
 /* remove spacing */
 .mbr-gallery .mbr-gallery-row.no-gutter {
@@ -1118,12 +1118,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   color: #fff;
   opacity: 1; }
 
-.mbr-slider .carousel-indicators {
+.mbr-slider:not(.extTestimonials5, .extTestimonials1) .carousel-indicators {
   position: absolute;
   bottom: 0;
   margin-bottom: 1.5rem !important; }
   @media (max-width: 543px) {
-    .mbr-slider .carousel-indicators {
+    .mbr-slider:not(.extTestimonials5, .extTestimonials1) .carousel-indicators {
       display: none; } }
 
 .mbr-gallery .mbr-slider .carousel-indicators {
@@ -1655,7 +1655,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
   color: #bcbcbc;
   display: block;
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-size: 0.875rem;
   line-height: 1.8;
   overflow: hidden;
@@ -1739,7 +1739,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 3.5rem; }
   .mbr-company .list-group-text {
     color: #fff;
-    font-family: "Raleway";
+    font-family: "Roboto";
     font-size: 0.875rem;
     line-height: 1.6;
     position: static;

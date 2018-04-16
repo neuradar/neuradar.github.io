@@ -32,7 +32,7 @@
     },
     "versionFirst": "4.3.1",
     "uniqCompNum": 88,
-    "versionPublish": "4.3.4",
+    "versionPublish": "4.6.6",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -1216,7 +1216,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7862.png",
+              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7860.png",
               "link": "",
               "alt": "",
               "title": ""
